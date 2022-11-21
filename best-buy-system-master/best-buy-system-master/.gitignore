@@ -1,0 +1,50 @@
+# Intellij
+**/.idea/**
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+
+
+# Eclipse
+.project
+.metadata
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/**
+.loadpath
+.factorypath
+*.launch
+.externalToolBuilders/**
+.springBeans
+.recommenders/
+
+######################
+# Java
+######################
+
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle
+gradle
+
+# Directories
+build
+bin
+deploy
+classes
+**/src/generated
+
+# Mac
+.DS_Store
