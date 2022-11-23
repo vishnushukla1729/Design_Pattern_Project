@@ -3,7 +3,7 @@ package command;
 import decorator.*;
 
 /**
- * Created by ealexhaywood on 5/7/17.
+ * Created by Vishnu Shukla on 21/11/22.
  */
 public class CMDPrintReceipt implements CommandInterface {
 

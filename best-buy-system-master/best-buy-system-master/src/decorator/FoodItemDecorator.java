@@ -5,7 +5,7 @@ import model.AbstractItem;
 import model.Order;
 
 /**
- * Created by ealexhaywood on 5/1/17.
+ * Created by Vishnu Shukla on 21/11/22.
  */
 public class FoodItemDecorator extends ReceiptDecorator {
     public FoodItemDecorator(Receipt receipt) {

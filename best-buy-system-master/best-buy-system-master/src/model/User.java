@@ -3,7 +3,7 @@ package model;
 import java.io.Serializable;
 
 /**
- * Created by ealexhaywood on 5/13/17.
+ * Created by Vishnu Shukla on 21/11/22.
  */
 public class User implements Serializable {
 

@@ -1,7 +1,7 @@
 package exceptions;
 
 /**
- * Created by ealexhaywood on 5/6/17.
+ * Created by Vishnu Shukla on 21/11/22.
  */
 public class CommandInterfaceException extends RuntimeException {
     public CommandInterfaceException() {

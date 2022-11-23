@@ -10,7 +10,7 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * Created by ehaywo1 on 3/30/2017.
+ * Created by Vishnu Shukla on 21/11/22.
  */
 public class Aggregator implements Serializable {
     private ShoppingCart shoppingCart;

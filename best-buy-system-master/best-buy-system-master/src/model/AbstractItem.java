@@ -3,7 +3,7 @@ package model;
 import java.io.Serializable;
 
 /**
- * Created by ehaywo1 on 3/30/2017.
+ * Created by Vishnu Shukla on 21/11/22.
  */
 public abstract class AbstractItem implements Serializable {
 

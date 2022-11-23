@@ -5,7 +5,8 @@ import model.AbstractItem;
 /**
  * Actual iterators are contained in the OnlineStore class
  *
- * Created by ealexhaywood on 4/16/17.
+/**
+ * Created by Vishnu Shukla on 21/11/22.
  */
 public interface OnlineStoreIterator {
     boolean hasNext();

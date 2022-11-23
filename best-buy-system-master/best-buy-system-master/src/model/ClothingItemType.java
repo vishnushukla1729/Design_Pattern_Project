@@ -1,7 +1,7 @@
 package model;
 
 /**
- * Created by ealexhaywood on 4/16/17.
+ * Created by Vishnu Shukla on 21/11/22.
  */
 public enum ClothingItemType {
     SHIRT("Shirt"), PANTS("Pants"), SHOES("Shoes");

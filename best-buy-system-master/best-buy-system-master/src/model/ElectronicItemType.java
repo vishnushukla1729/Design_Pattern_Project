@@ -1,7 +1,6 @@
 package model;
-
 /**
- * Created by ealexhaywood on 4/16/17.
+ * Created by Vishnu Shukla on 21/11/22.
  */
 public enum ElectronicItemType {
     CELL_PHONE("Cell Phone"), LAPTOP("Laptop"), DESKTOP_PC("Desktop PC");

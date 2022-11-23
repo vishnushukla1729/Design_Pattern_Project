@@ -4,7 +4,7 @@ import model.AbstractItem;
 import java.util.List;
 
 /**
- * Created by tylerhoward on 5/12/17.
+ * Created by Vishnu Shukla on 21/11/22.
  */
 public interface ShippingStrategy {
     double calculateShippingCost(List<AbstractItem> orderedItems);
