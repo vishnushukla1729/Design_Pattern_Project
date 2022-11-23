@@ -42,7 +42,7 @@ public class ClothingItem extends AbstractItem {
 
     @Override
     public String toString() {
-        return "[Name = " + name + ", Price = $" + price + ", Type = " + clothingItemType.toString()
+        return "[Name = " + name + ", Price = " + price + ", Type = " + clothingItemType.toString()
                 + ", Size = " + size + ", Youth = " + youth + "]";
     }
 }

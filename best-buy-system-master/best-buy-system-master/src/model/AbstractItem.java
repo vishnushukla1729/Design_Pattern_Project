@@ -33,6 +33,6 @@ public abstract class AbstractItem implements Serializable {
 
     @Override
     public String toString() {
-        return "[name = " + name + ", price = $" + price + "]";
+        return "[name = " + name + ", price = " + price + "]";
     }
 }

@@ -30,7 +30,7 @@ public class ElectronicItemDecorator extends ReceiptDecorator {
             hasElectronicItems = true;
 
             AbstractItem item = itr.next();
-            System.out.println(item.getName() + "\t$" + item.getPrice());
+            System.out.println(item.getName() + "\t" + item.getPrice());
         }
 
         // If it doesn't have electronic items, print that it has none

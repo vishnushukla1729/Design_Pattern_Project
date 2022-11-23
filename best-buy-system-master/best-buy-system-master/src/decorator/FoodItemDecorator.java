@@ -30,7 +30,7 @@ public class FoodItemDecorator extends ReceiptDecorator {
             hasFoodItems = true;
 
             AbstractItem item = itr.next();
-            System.out.println(item.getName() + "\t$" + item.getPrice());
+            System.out.println(item.getName() + "\t" + item.getPrice());
         }
 
         // If it doesn't have food items, print that it has none

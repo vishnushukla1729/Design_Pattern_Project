@@ -42,7 +42,7 @@ public class ElectronicItem extends AbstractItem {
 
     @Override
     public String toString() {
-        return "[Name = " + name + ", Price = $" + price + ", Type = " + electronicItemType.toString()
+        return "[Name = " + name + ", Price = " + price + ", Type = " + electronicItemType.toString()
                 + ", Display Quality  = " + displayQuality + ", Screen Size = " + screenSize + " inches]";
     }
 }

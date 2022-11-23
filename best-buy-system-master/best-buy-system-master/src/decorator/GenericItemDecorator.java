@@ -30,7 +30,7 @@ public class GenericItemDecorator extends ReceiptDecorator {
             hasGenericItems = true;
 
             AbstractItem item = itr.next();
-            System.out.println(item.getName() + "\t$" + item.getPrice());
+            System.out.println(item.getName() + "\t" + item.getPrice());
         }
 
         // If it doesn't have generic items, print that it has none

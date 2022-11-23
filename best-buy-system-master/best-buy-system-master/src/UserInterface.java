@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * Created by ehaywo1 on 3/30/2017.
+ * Created by Vishnu Shukla on 21/11/22.
  */
 public class UserInterface {
 
@@ -144,10 +144,10 @@ public class UserInterface {
     private static void displayUsers() {
         System.out.println();
         System.out.println("Users Menu");
-        System.out.println("1 - Joe Flacco");
-        System.out.println("2 - Optimus 'Prime'");
-        System.out.println("3 - Delaware Guy");
-        System.out.println("4 - NY Fella");
+        System.out.println("1 - Meghal's Menu");
+        System.out.println("2 - Mamta's Menu");
+        System.out.println("3 - Kapil's Menu");
+        System.out.println("4 - Vishnu's Menu");
         System.out.println();
     }
 

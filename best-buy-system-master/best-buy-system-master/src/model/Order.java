@@ -48,9 +48,9 @@ public class Order implements Serializable {
             case DELAWARE:
                 return new DETaxStrategy();
             case MARYLAND:
-                return new MDTaxStrategy();
+                return new MaharastraTaxStrategy();
             case NEW_YORK:
-                return new NYTaxStrategy();
+                return new UttarPradesh();
             default:
                 return new OtherStateTaxStrategy();
         }

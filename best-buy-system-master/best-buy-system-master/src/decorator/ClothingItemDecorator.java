@@ -29,7 +29,7 @@ public class ClothingItemDecorator extends ReceiptDecorator {
             hasClothingItems = true;
 
             AbstractItem item = itr.next();
-            System.out.println(item.getName() + "\t$" + item.getPrice());
+            System.out.println(item.getName() + "\t" + item.getPrice());
         }
 
         // If it doesn't have clothing items, print that it has none

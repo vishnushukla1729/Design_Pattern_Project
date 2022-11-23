@@ -32,7 +32,7 @@ public class FoodItem extends AbstractItem {
 
     @Override
     public String toString() {
-        return "[Name = " + name + ", Price = $" + price + ", Type = " + foodItemType.toString()
+        return "[Name = " + name + ", Price = " + price + ", Type = " + foodItemType.toString()
                 + ", Vegetarian = " + vegetarian + "]";
     }
 }
