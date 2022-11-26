@@ -141,19 +141,19 @@ public class SystemInterface {
     }
 
     public static void loginAsJoe() {
-        user = new User("Joe Flacco", false, "Maryland",false);
+        user = new User("Meghal", false, "Maryland",false);
     }
 
     public static void loginAsPrime() {
-        user = new User("Optimus Prime", true, "Maryland",false);
+        user = new User("Mamata", true, "Maryland",false);
     }
 
     public static void loginAsDelaware() {
-        user = new User("Delaware Guy", false, "Delaware",false);
+        user = new User("Kapil", false, "Delaware",false);
     }
 
     public static void loginAsNY() {
-        user = new User("NY Fella", false, "New York",false);
+        user = new User("Vishnu", false, "New York",false);
     }
 
     public static String getUser() {
