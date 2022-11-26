@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * Created by Vishnu Shukla on 21/11/22.
  */
-public class NYTaxStrategy implements TaxStrategy, Serializable {
+public class UttarPradesh implements TaxStrategy, Serializable {
     @Override
     public double calcSalesTax(double price) {
         double tax = price * 0.08875; //average sales tax in NYS
